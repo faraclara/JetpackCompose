@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ComposeSubmission1</string>
+    <string name="adele">Adele Laurie Blue Adkins (born May 5, 1988) is a British singer-songwriter who has sold millions of albums worldwide and won a total of 15 Grammys as well as an Oscar. For her next album, Adele enlisted a number of songwriters and producers, including Rick Rubin, to collaborate with her. The result, 21 (2011), was a bolder and more stylistically diverse set of material, with singles ranging from the earthy gospel- and disco-inflected “Rolling in the Deep” to the affecting breakup ballad “Someone like You.” Both songs hit number one in multiple countries, and, despite a vocal-cord ailment that forced Adele to cancel numerous tour dates in 2011, the album became the biggest-selling release of the year in both the United States and the United Kingdom.</string>
+    <string name="search_text">Masukan Artist yang ingin dicari</string>
+    <string name="cari_artis">Cari Artist Favoritemu!</string>
+    <string name="empty_data">Data Kosong</string>
+    <string name="profile_name">Fara Deviana</string>
+    <string name="profile_email">faraadevianaa@gmail.com</string>
+    <string name="empty_favorite">Tidak ada list favorite.</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_profile">Profile</string>
+
+
+    <string name="back">Back</string>
+
+    <string name="favorite">Favorite</string>
+    <string name="delete_favorite">Remove from Favorite</string>
+    <string name="add_favorite">Add to Favorite</string>
+
+</resources>
